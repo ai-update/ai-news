@@ -6,11 +6,23 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 🌐 https://casvanvliet.substack.com
 
-## 🖥️ Websites
+## 🎓 Academic Institutions
 
 🎓 **MIT**
 
 > 🌐 https://news.mit.edu/topic/artificial-intelligence2
+
+## Literature
+
+🎓 **Harvard Business Review**
+
+> 🌐 https://hbr.org/topic/subject/ai-and-machine-learning
+
+🎓 **The Scientific American**
+
+🎓 **Nature**
+
+> 🌐 https://www.nature.com/search?q=artificial+intelligence&journal=
 
 📰 **Wall Street Journal**
 
@@ -28,10 +40,6 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.bbc.co.uk/news/topics/ce1qrvleleqt
 
-🎓 **Nature**
-
-> 🌐 https://www.nature.com/search?q=artificial+intelligence&journal=
-
 📰 **New York Times**
 
 > 🌐 https://www.nytimes.com/spotlight/artificial-intelligence
@@ -47,11 +55,5 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 📰 **The Guardian**
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
-
-🎓 **Harvard Business Review**
-
-> 🌐 https://hbr.org/topic/subject/ai-and-machine-learning
-
-🎓 **The Scientific American**
 
 > 🌐 https://www.scientificamerican.com/artificial-intelligence/
