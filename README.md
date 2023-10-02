@@ -1,4 +1,4 @@
-# Artificial Intelligence News 🗞️
+# 🗞️ Artificial Intelligence News 🗞
 
 A collection of news sources on artificial intelligence (A.I.).
 
