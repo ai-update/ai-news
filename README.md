@@ -17,8 +17,10 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 🎓 **Harvard Business Review**
 
 > 🌐 https://hbr.org/topic/subject/ai-and-machine-learning
-
+> 
 🎓 **The Scientific American**
+
+> 🌐 https://www.scientificamerican.com/artificial-intelligence/
 
 🎓 **Nature**
 
@@ -55,5 +57,3 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 📰 **The Guardian**
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
-
-> 🌐 https://www.scientificamerican.com/artificial-intelligence/
