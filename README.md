@@ -10,12 +10,12 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 **MIT**
 
-🌐 > https://news.mit.edu/topic/artificial-intelligence2
+> 🌐 https://news.mit.edu/topic/artificial-intelligence2
 
 **Wall Street Journal**
 
-🌐 > https://www.wsj.com/tech/ai
+> 🌐 https://www.wsj.com/tech/ai
 
 **Wired**
 
-🌐 > https://www.wired.com/tag/artificial-intelligence/
+> 🌐 https://www.wired.com/tag/artificial-intelligence/
