@@ -12,7 +12,7 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://news.mit.edu/topic/artificial-intelligence2
 
-## Literature
+## 🎓 Literature
 
 🎓 **Harvard Business Review**
 
@@ -36,10 +36,6 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.wired.com/tag/artificial-intelligence/
 
-**The Atlantic**
-
-> 🌐 https://www.theatlantic.com/category/ai-artificial-intelligence/
-
 📰 **BBC** 
 
 > 🌐 https://www.bbc.co.uk/news/topics/ce1qrvleleqt
@@ -59,3 +55,9 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 📰 **The Guardian**
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
+
+## Thinktanks
+
+**The Atlantic**
+
+> 🌐 https://www.theatlantic.com/category/ai-artificial-intelligence/
