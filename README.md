@@ -8,11 +8,11 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 ## 🖥️ Websites
 
-**MIT**
+🎓 **MIT**
 
 > 🌐 https://news.mit.edu/topic/artificial-intelligence2
 
-**Wall Street Journal**
+📰 **Wall Street Journal**
 
 > 🌐 https://www.wsj.com/tech/ai
 
@@ -24,15 +24,15 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.theatlantic.com/category/ai-artificial-intelligence/
 
-**BBC** 
+📰 **BBC** 
 
 > 🌐 https://www.bbc.co.uk/news/topics/ce1qrvleleqt
 
-**Nature**
+🎓 **Nature**
 
 > 🌐 https://www.nature.com/search?q=artificial+intelligence&journal=
 
-**New York Times**
+📰 **New York Times**
 
 > 🌐 https://www.nytimes.com/spotlight/artificial-intelligence
 
@@ -44,14 +44,14 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.economist.com/artificial-intelligence
 
-**The Guardian**
+📰 **The Guardian**
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
 
-**Harvard Business Review**
+🎓 **Harvard Business Review**
 
 > 🌐 https://hbr.org/topic/subject/ai-and-machine-learning
 
-**The Scientific American**
+🎓 **The Scientific American**
 
 > 🌐 https://www.scientificamerican.com/artificial-intelligence/
