@@ -16,7 +16,7 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.wsj.com/tech/ai
 
-**Wired**
+📰 **Wired**
 
 > 🌐 https://www.wired.com/tag/artificial-intelligence/
 
@@ -36,11 +36,11 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.nytimes.com/spotlight/artificial-intelligence
 
-**The Verge**
+📰 **The Verge**
 
 > 🌐 https://www.theverge.com/ai-artificial-intelligence
 
-**The Economist**
+📰 **The Economist**
 
 > 🌐 https://www.economist.com/artificial-intelligence
 
