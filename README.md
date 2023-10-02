@@ -52,7 +52,7 @@
 
 > 🌐 https://www.economist.com/artificial-intelligence
 
-### 📰 The Guardian
+### The Guardian
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
 
