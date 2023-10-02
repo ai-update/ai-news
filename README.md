@@ -26,7 +26,7 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.nature.com/search?q=artificial+intelligence&journal=
 
-## Media
+## 🗞️ Media
 
 📰 **Wall Street Journal**
 
@@ -58,6 +58,6 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 ## 💡 Thinktanks
 
-**The Atlantic**
+💡 **The Atlantic**
 
 > 🌐 https://www.theatlantic.com/category/ai-artificial-intelligence/
