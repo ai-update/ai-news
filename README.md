@@ -1,4 +1,4 @@
-# Artificial Intelligence News
+# Artificial Intelligence News 🗞️
 
 A collection of news sources on artificial intelligence (A.I.).
 
@@ -6,7 +6,7 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 🌐 https://casvanvliet.substack.com
 
-## Websites
+## 🖥️ Websites
 
 **MIT**
 
