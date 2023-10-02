@@ -56,7 +56,7 @@ The primary purpose of this curated collection is to offer a diverse range of ne
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
 
-## Thinktanks
+## 💡 Thinktanks
 
 **The Atlantic**
 
