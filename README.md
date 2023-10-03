@@ -2,7 +2,7 @@
 
 🗞️ A collection of news sources on artificial intelligence (A.I.).
 
-The purpose of this curated collection is to offer a diverse range of news sources to follow current A.I. developments effectively.
+Curated by:
 
 🌐 https://casvanvliet.substack.com
 
