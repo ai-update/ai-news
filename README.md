@@ -6,6 +6,12 @@ Curated by:
 
 🌐 https://casvanvliet.substack.com
 
+## Table of Content
+
+- 🎓 Academic Institutions
+- 🗞️ Media
+- 💡 Thinktanks
+
 # Sources:
 ## 🎓 Academic Institutions
 
