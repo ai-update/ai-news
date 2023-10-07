@@ -25,36 +25,20 @@ A collection of news sources on artificial intelligence (A.I.).
 
 ## Media
 
-### 📰 [Wall Street Journal]
+### 📰 [Wall Street Journal](https://www.wsj.com/tech/ai)
 
-> 🌐 https://www.wsj.com/tech/ai
+### 📰 [Wired](https://www.wired.com/tag/artificial-intelligence/)
 
-### 📰 [Wired]
+### 📰 [BBC](https://www.bbc.co.uk/news/topics/ce1qrvleleqt)
 
-> 🌐 https://www.wired.com/tag/artificial-intelligence/
+### 📰 [New York Times](https://www.nytimes.com/spotlight/artificial-intelligence)
 
-### 📰 [BBC]
+### 📰 [The Verge](https://www.theverge.com/ai-artificial-intelligence)
 
-> 🌐 https://www.bbc.co.uk/news/topics/ce1qrvleleqt
+### 📰 [The Economist](https://www.economist.com/artificial-intelligence)
 
-### 📰 [New York Times]
-
-> 🌐 https://www.nytimes.com/spotlight/artificial-intelligence
-
-### 📰 [The Verge]
-
-> 🌐 https://www.theverge.com/ai-artificial-intelligence
-
-### 📰 [The Economist]
-
-> 🌐 https://www.economist.com/artificial-intelligence
-
-### 📰 [The Guardian]
-
-> 🌐 https://www.theguardian.com/technology/artificialintelligenceai
+### 📰 [The Guardian](https://www.theguardian.com/technology/artificialintelligenceai)
 
 ## Thinktanks
 
-### 💡 [The Atlantic]
-
-> 🌐 https://www.theatlantic.com/category/ai-artificial-intelligence/
+### 💡 [The Atlantic](https://www.theatlantic.com/category/ai-artificial-intelligence/)
