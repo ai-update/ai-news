@@ -13,9 +13,7 @@ A collection of news sources on artificial intelligence (A.I.).
 # Sources:
 ## Academic Institutions
 
-### 🏛️ MIT
-
-> 🌐 https://news.mit.edu/topic/artificial-intelligence2
+### 🏛️ [MIT](https://news.mit.edu/topic/artificial-intelligence2)
 
 ## Literature
 
