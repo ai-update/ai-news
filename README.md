@@ -11,13 +11,13 @@ A collection of news sources on artificial intelligence (A.I.).
 - 💡 [Thinktanks](#thinktanks)
 
 # Sources:
-## 🎓 Academic Institutions
+## Academic Institutions
 
 ### 🏛️ MIT
 
 > 🌐 https://news.mit.edu/topic/artificial-intelligence2
 
-## 🎓 Literature
+## Literature
 
 ### 🏛️ Harvard Business Review
 
@@ -31,7 +31,7 @@ A collection of news sources on artificial intelligence (A.I.).
 
 > 🌐 https://www.nature.com/search?q=artificial+intelligence&journal=
 
-## 🗞️ Media
+## Media
 
 ### 📰 Wall Street Journal
 
@@ -61,7 +61,7 @@ A collection of news sources on artificial intelligence (A.I.).
 
 > 🌐 https://www.theguardian.com/technology/artificialintelligenceai
 
-## 🧠 Thinktanks
+## Thinktanks
 
 ### 💡 The Atlantic
 
