@@ -2,7 +2,7 @@
 
 A collection of news sources on artificial intelligence (A.I.).
 
-Curated by [Cas van Vliet](https://casvanvliet.substack.com)
+👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
