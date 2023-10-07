@@ -1,6 +1,6 @@
 # 🗞️ Artificial Intelligence News
 
-A collection of news sources on artificial intelligence (A.I.).
+ℹ️ A collection of news sources on artificial intelligence (A.I.).
 
 👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
 
