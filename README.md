@@ -17,13 +17,9 @@ A collection of news sources on artificial intelligence (A.I.).
 
 ## Literature
 
-### 📚 Harvard Business Review
+### 📚 [Harvard Business Review](https://hbr.org/topic/subject/ai-and-machine-learning)
 
-> 🌐 https://hbr.org/topic/subject/ai-and-machine-learning
-
-### 📚 The Scientific American
-
-> 🌐 https://www.scientificamerican.com/artificial-intelligence/
+### 📚 [The Scientific American](https://www.scientificamerican.com/artificial-intelligence/)
 
 ### 📚 Nature
 
