@@ -6,9 +6,9 @@ A collection of news sources on artificial intelligence (A.I.).
 
 ## Table of Contents
 
-- 🎓 Academic Institutions
-- 🗞️ Media
-- 💡 Thinktanks
+- 🎓 [Academic Institutions](#academic-institutions)
+- 🗞️ [Media](#media)
+- 💡 [Thinktanks](#thinktanks)
 
 # Sources:
 ## 🎓 Academic Institutions
