@@ -1,16 +1,19 @@
-# Artificial Intelligence News 🗞️
+# Artificial Intelligence Sources 🗞️
 
-ℹ️ A collection of news sources on artificial intelligence (A.I.).
+ℹ️ A collection of **sources** on **A.I.**
 
-🛠️ Need a custom collection? [Get in touch](mailto:workcommunication@duck.com).
-
-👀 Curated by [Cas van Vliet](https://casvanvliet.substack.com).
+👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
 - 🎓 [Academic Institutions](#academic-institutions)
 - 🗞️ [Media](#media)
 - 💡 [Thinktanks](#thinktanks)
+
+## More sources:
+
+### 🛠️ [Buy a Custom Collection of Sources](mailto:workcommunication@duck.com).
+> 💲 **9.99+**
 
 # Sources:
 ## Academic Institutions
