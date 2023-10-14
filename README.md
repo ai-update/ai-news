@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
-- 🎓 [Academic Institutions](#academic-institutions)
-- 🗞️ [Media](#media)
-- 💡 [Thinktanks](#thinktanks)
+- 🎓 **[Academic Institutions](#academic-institutions)**
+- 🗞️ **[Media](#media)**
+- 💡 **[Thinktanks](#thinktanks)**
 
 ## More sources:
 
