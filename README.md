@@ -30,6 +30,8 @@
 
 ## Media
 
+### 📰 [Forbes](https://www.forbes.com/ai/)
+
 ### 📰 [Wall Street Journal](https://www.wsj.com/tech/ai)
 
 ### 📰 [Wired](https://www.wired.com/tag/artificial-intelligence/)
@@ -47,3 +49,7 @@
 ## Thinktanks
 
 ### 💡 [The Atlantic](https://www.theatlantic.com/category/ai-artificial-intelligence/)
+
+## Commercial Oranizations 
+
+### 💸 [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights) 
