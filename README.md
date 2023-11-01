@@ -1,6 +1,6 @@
 # Artificial Intelligence Sources 🗞️
 
-![image](https://github.com/cas-van-vliet/ai-news/assets/146363448/cbd97580-f774-400b-963b-7f83152b21e2)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
 ℹ️ A collection of **sources** on **A.I.**
 
