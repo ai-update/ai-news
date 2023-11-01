@@ -32,6 +32,8 @@
 
 ## Media
 
+_[Visit my YouTube Channel for playlists with relevant video's of the News Media listed below](https://www.youtube.com/@promptfast/playlists)_
+
 ### 📰 [Forbes](https://www.forbes.com/ai/)
 
 ### 📰 [Wall Street Journal](https://www.wsj.com/tech/ai)
