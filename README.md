@@ -32,7 +32,7 @@
 
 ## Media
 
-_[Visit my YouTube Channel](https://www.youtube.com/@promptfast/playlists) for playlists with video's of News Media listed below_
+_[Visit my YouTube Channel](https://www.youtube.com/@promptfast/playlists) for playlists with video's of News Media listed here:_
 
 ### 📰 [Forbes](https://www.forbes.com/ai/)
 
