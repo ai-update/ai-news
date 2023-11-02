@@ -11,6 +11,7 @@
 - 🎓 **[Academic Institutions](#academic-institutions)**
 - 🗞️ **[Media](#media)**
 - 💡 **[Thinktanks](#thinktanks)**
+- 💸 **[Commercial Enterprises](#commercial-organizations)**
 
 ## More sources:
 
@@ -54,7 +55,7 @@ _[Visit my YouTube Channel](https://www.youtube.com/@promptfast/playlists) for p
 
 ### 💡 [The Atlantic](https://www.theatlantic.com/category/ai-artificial-intelligence/)
 
-## Commercial Oranizations 
+## Commercial Enterprises 
 
 ### 💸 [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights) 
 
