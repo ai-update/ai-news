@@ -19,6 +19,7 @@
 > 💲 **9.99+**
 
 # Sources:
+
 ## Academic Institutions
 
 ### 🏛️ [MIT](https://news.mit.edu/topic/artificial-intelligence2)
@@ -26,6 +27,8 @@
 ### 🏛️ [Stanford University](https://hai.stanford.edu/)
 
 ### 🏛️ [University of Cambridge](https://www.cam.ac.uk/topics/artificial-intelligence)
+
+### 🏛️ [Wageningen University](https://www.wur.nl/nl/themas/kunstmatige-intelligentie.htm)
 
 ## Academic Literature
 
