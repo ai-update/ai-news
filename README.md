@@ -21,6 +21,8 @@
 # Sources:
 ## Academic Institutions
 
+### 🏛️ [Stanford University](https://hai.stanford.edu/)
+
 ### 🏛️ [MIT](https://news.mit.edu/topic/artificial-intelligence2)
 
 ## Literature
