@@ -40,8 +40,6 @@
 
 ## Media
 
-#### 📺 _[Visit my YouTube Channel](https://www.youtube.com/@promptfast/playlists) for playlists with video's of News Media listed here:_
-
 ### 📰 [BBC](https://www.bbc.co.uk/news/topics/ce1qrvleleqt)
 
 ### 📰 [Forbes](https://www.forbes.com/ai/)
@@ -57,6 +55,8 @@
 ### 📰 [Wall Street Journal](https://www.wsj.com/tech/ai)
 
 ### 📰 [Wired](https://www.wired.com/tag/artificial-intelligence/)
+
+📺 _[Visit my YouTube Channel](https://www.youtube.com/@promptfast/playlists) for playlists with video's of **News Media**._
 
 ## Thinktanks
 
