@@ -55,8 +55,6 @@
 
 ### 📰 [Wired](https://www.wired.com/tag/artificial-intelligence/)
 
-📺 _[Visit my YouTube Channel](https://www.youtube.com/@promptfast/playlists) for playlists with video's of **News Media**._
-
 ## Thinktanks
 
 ### 💡 [The Atlantic](https://www.theatlantic.com/category/ai-artificial-intelligence/)
