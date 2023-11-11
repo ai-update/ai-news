@@ -16,7 +16,6 @@
 ## More sources:
 
 🛠️ **[Buy a Custom Collection of Sources](mailto:workcommunication@duck.com)**
-> 💲 **9.99+**
 
 # Sources:
 
